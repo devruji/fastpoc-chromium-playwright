@@ -23,8 +23,8 @@ fastpoc-chromium-playwright/
 
 ### 1. Clone this repo
 ```bash
-git clone https://github.com/your-username/playwright-poc.git
-cd playwright-poc
+git clone https://github.com/devruji/fastpoc-chromium-playwright.git
+cd fastpoc-chromium-playwright
 ```
 
 ### 2. Build Docker image
